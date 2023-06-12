@@ -8,4 +8,4 @@ I am currently looking for opportunities in Data Science, Machine Learning, Deep
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirag05B&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag05B&layout=donut&theme=radical)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chirag05B&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chirag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag05B&layout=compact&theme=buefy&hide_border=true" /></a> |
