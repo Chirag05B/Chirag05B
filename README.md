@@ -8,5 +8,5 @@ I am currently looking for opportunities in Data Science, Machine Learning, Deep
 
 
 
-| <a href="https://github.com/Chirag05B"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chirag05B&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Chirag's github stats" /></a> | <a href="https://github.com/Chirag05B"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag05B&layout=donut&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/Chirag05B"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag05b&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Chirag's github stats" /></a> | <a href="https://github.com/Chirag05B"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag05b&layout=donut&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
