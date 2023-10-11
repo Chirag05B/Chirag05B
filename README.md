@@ -1,6 +1,5 @@
 [![Chirag B Has a lot of ideas.](https://github.com/Chirag05B/Chirag05B/blob/main/assets/Linkedin%20banner.jpg)](https://www.linkedin.com/in/chirag05b)
 
-# About me
 <!---
 As a recent B.Tech graduate, I am eager to launch my career in the exciting field of Machine Learning and AI. With a strong foundation in mathematics, computer programming, and data-driven problem-solving, I am well-prepared to excel in this dynamic and rapidly evolving field.
 
@@ -12,8 +11,9 @@ I have had the privilege of working on a variety of NLP projects, including sent
 | <a href="https://github.com/Chirag05B"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag05b&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Chirag's github stats" /></a> | <a href="https://github.com/Chirag05B"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag05b&layout=donut&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 -->
-
-<h4>Hey <a href=#><img src = "https://github.com/Chirag05B/Chirag05B/blob/main/assets/wave.gif" width = 20px></a>, I'm Chirag. I'm passionate about data science and machine learning🤖! I'm currently looking for opportunities to collaborate with like-minded professionals and organizations, driving innovation and making a meaningful impact in the AI landscape.</h4>
+<table><th><h2 align="center">About Me</h2></th>
+<tr><td>
+  <h4>Hey <a href=#><img src = "https://github.com/Chirag05B/Chirag05B/blob/main/assets/wave.gif" width = 20px></a>, I'm Chirag. I'm passionate about data science and machine learning🤖! I'm currently looking for opportunities to collaborate with like-minded professionals and organizations, driving innovation and making a meaningful impact in the AI landscape.</h4>
 
 <a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
 
@@ -38,5 +38,14 @@ I have had the privilege of working on a variety of NLP projects, including sent
 <code><a href="https://scikit-learn.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" width="40" /></a></code>
 <code><a href="https://pandas.pydata.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40" width="40" /></a></code>
 </details>
+  </td>
+  </tr>
+  <tr>
+    <td>
+      <a href=#><img src="https://i.pinimg.com/originals/fe/84/4c/fe844cbda6fa537f1f2bfe47551f6de3.gif" align="left" width="100"></a>
+      <h4 align="right">View Count</h4>
+     <a href=#><img src="https://profile-counter.glitch.me/chirag05b/count.svg" alt="View Count" width="200" align="right"></a>
+    </td>
+  </tr>
+  <table>     
 <hr>
-
