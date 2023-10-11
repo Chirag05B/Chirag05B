@@ -35,6 +35,8 @@ I have had the privilege of working on a variety of NLP projects, including sent
 <details open><summary><h3 align="left">🔨 Tools / Frameworks / Others:</h3></summary>
 <code><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="40" width="40" /></a></code>
+<code><a href="https://huggingface.co" target="_blank"><img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" alt="hugging-face" height="40" width="40" /></a></code>
+<code><a href="https://aws.amazon.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="hugging-face" height="30" width="40" /></a></code>
 <code><a href="https://scikit-learn.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" width="40" /></a></code>
 <code><a href="https://pandas.pydata.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40" width="40" /></a></code>
 </details>
