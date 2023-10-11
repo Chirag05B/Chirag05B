@@ -25,3 +25,5 @@ I have had the privilege of working on a variety of NLP projects, including sent
 
 > 📫 How to reach me chirag05b@gmail.com
 
+<details open><summary><h3 align="left">🌐 Connect with me:</h3></summary>
+<code><a href="https://www.linkedin.com/in/chirag05b/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-b" height="30" width="40" /></a></code>
