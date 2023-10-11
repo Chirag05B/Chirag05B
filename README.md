@@ -13,7 +13,6 @@ I have had the privilege of working on a variety of NLP projects, including sent
 | <a href="https://github.com/Chirag05B"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag05b&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Chirag's github stats" /></a> | <a href="https://github.com/Chirag05B"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag05b&layout=donut&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 -->
-
 <tr><td>
   <h4>Hey <a href=#><img src = "https://github.com/Chirag05B/Chirag05B/blob/main/assets/wave.gif" width = 20px></a>, I'm Chirag. I'm passionate about data science and machine learning🤖! I'm currently looking for opportunities to collaborate with like-minded professionals and organizations, driving innovation and making a meaningful impact in the AI landscape.</h4>
 
