@@ -33,7 +33,7 @@ I have had the privilege of working on a variety of NLP projects, including sent
 <code><a href="https://instagram.com/chiragb.ai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chiragb.ai" height="30" width="40" /></a></code>
 
 <details open><summary><h3 align="left">🔨 Tools / Frameworks / Others:</h3></summary>
-<code><a href="https://www.tensorflow.org" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="40" width="40" /></a></code>
+<code><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></code>
 <code><a href="https://pytorch.org/" target="blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="40" width="40" /></a></code>
 <code><a href="https://scikit-learn.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" width="40" /></a></code>
 <code><a href="https://pandas.pydata.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40" width="40" /></a></code>
