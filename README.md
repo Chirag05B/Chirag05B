@@ -12,7 +12,7 @@ I have had the privilege of working on a variety of NLP projects, including sent
 | <a href="https://github.com/Chirag05B"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag05b&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Chirag's github stats" /></a> | <a href="https://github.com/Chirag05B"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag05b&layout=donut&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 -->
-<hr>
+
 <h4>Hey <a href=#><img src = "https://github.com/Chirag05B/Chirag05B/blob/main/assets/wave.gif" width = 20px></a>, I'm Chirag. I'm passionate about data science and machine learning🤖! I'm currently looking for opportunities to collaborate with like-minded professionals and organizations, driving innovation and making a meaningful impact in the AI landscape.</h4>
 
 <a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
@@ -31,11 +31,12 @@ I have had the privilege of working on a variety of NLP projects, including sent
 <code><a href="https://www.linkedin.com/in/chirag05b/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-b" height="30" width="40" /></a></code>
 <code><a href="https://www.hackerrank.com/Chirag05_B" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chirag-b2" height="30" width="40" /></a></code>
 <code><a href="https://instagram.com/chiragb.ai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chiragb.ai" height="30" width="40" /></a></code>
-
+</details>
 <details open><summary><h3 align="left">🔨 Tools / Frameworks / Others:</h3></summary>
 <code><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="40" width="40" /></a></code>
 <code><a href="https://scikit-learn.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" width="40" /></a></code>
 <code><a href="https://pandas.pydata.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40" width="40" /></a></code>
-
+</details>
 <hr>
+
