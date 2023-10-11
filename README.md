@@ -42,7 +42,7 @@ I have had the privilege of working on a variety of NLP projects, including sent
   </tr>
   <tr>
     <td>
-      <a href=#><img src="https://i.pinimg.com/originals/fe/84/4c/fe844cbda6fa537f1f2bfe47551f6de3.gif" align="left" width="100"></a>
+      <a href=#><img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="left" width="200"></a>
       <h4 align="right">View Count</h4>
      <a href=#><img src="https://profile-counter.glitch.me/chirag05b/count.svg" alt="View Count" width="200" align="right"></a>
     </td>
