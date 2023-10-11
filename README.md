@@ -17,7 +17,7 @@ I have had the privilege of working on a variety of NLP projects, including sent
 
 <a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
 
-> 🔭 I’m currently learning **Data Science, Machine Learning and NLP**
+> 🔭 I’m currently learning **Data Science, Machine Learning and specializing in NLP**
 
 > 👥 I’m looking to collaborate on **more machine learning projects**
 
