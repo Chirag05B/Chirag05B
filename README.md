@@ -8,7 +8,6 @@ My hands-on experience with programming languages like Python and SQL and indust
 
 I have had the privilege of working on a variety of NLP projects, including sentiment analysis, text summarization, and chatbot development. These projects have allowed me to apply my knowledge of NLP techniques to real-world problems, further honing my skills in text preprocessing, model development, and evaluation. I am excited to leverage my academic background and technical aptitude to make a meaningful impact in a professional setting where I can contribute to cutting-edge Machine Learning and NLP projects.
 -->
-
 <!---
 | <a href="https://github.com/Chirag05B"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag05b&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Chirag's github stats" /></a> | <a href="https://github.com/Chirag05B"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag05b&layout=donut&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
