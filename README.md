@@ -14,7 +14,7 @@ I have had the privilege of working on a variety of NLP projects, including sent
 -->
 
 <tr><td>
-  <h4>Hey <a href=#><img src = "wave.gif" width = 20px></a>, I'm Chirag. I'm passionate about data science and machine learning🤖! I'm currently looking for opportunities to collaborate with like-minded professionals and organizations, driving innovation and making a meaningful impact in the AI landscape.</h4>
+  <h4>Hey <a href=#><img src = "[wave.gif](https://github.com/Chirag05B/Chirag05B/blob/main/assets/wave.gif)" width = 20px></a>, I'm Chirag. I'm passionate about data science and machine learning🤖! I'm currently looking for opportunities to collaborate with like-minded professionals and organizations, driving innovation and making a meaningful impact in the AI landscape.</h4>
 
 <a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
 
