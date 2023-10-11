@@ -1,6 +1,6 @@
 [![Chirag B Has a lot of ideas.](https://github.com/Chirag05B/Chirag05B/blob/main/assets/Linkedin%20banner.jpg)](https://www.linkedin.com/in/chirag05b)
 
-**About me**
+# About me
 <!---
 As a recent B.Tech graduate, I am eager to launch my career in the exciting field of Machine Learning and AI. With a strong foundation in mathematics, computer programming, and data-driven problem-solving, I am well-prepared to excel in this dynamic and rapidly evolving field.
 
