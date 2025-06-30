@@ -1,4 +1,4 @@
-[![Chirag B Has a lot of ideas.](https://github.com/Chirag05B/Chirag05B/blob/main/assets/Linkedin%20banner.jpg)](https://www.linkedin.com/in/chirag05b)
+[![Chirag B Has a lot of ideas.](https://github.com/Chirag05B/Chirag05B/blob/main/assets/Linkedin%20banner.jpg)](https://www.google.com)
 
 <!---
 As a recent B.Tech graduate, I am eager to launch my career in the exciting field of Machine Learning and AI. With a strong foundation in mathematics, computer programming, and data-driven problem-solving, I am well-prepared to excel in this dynamic and rapidly evolving field.
@@ -23,14 +23,10 @@ I have had the privilege of working on a variety of NLP projects, including sent
 
 > 🤔 I’m looking for help with **ML application development**
 
-> 📫 How to reach me chirag05b@gmail.com
-
 > 👨‍💻 All of my projects are available at [Chirag05B/Portfolio](https://github.com/Chirag05B/Portfolio)
 
 <details open><summary><h3 align="left">🌐 Connect with me:</h3></summary>
-<code><a href="https://www.linkedin.com/in/chirag05b/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-b" height="30" width="40" /></a></code>
 <code><a href="https://www.hackerrank.com/Chirag05_B" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chirag-b2" height="30" width="40" /></a></code>
-<code><a href="https://instagram.com/chiragb.ai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chiragb.ai" height="30" width="40" /></a></code>
 </details>
 <details open><summary><h3 align="left">🔨 Tools / Frameworks / Others:</h3></summary>
 <code><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></code>
