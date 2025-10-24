@@ -20,7 +20,7 @@ I'm passionate about data science & machine learning 🤖! Currently seeking opp
 > 🔭 Learning: **Data Science, Machine Learning & NLP**  
 > 🤝 Collaboration: **Open to ML + AI Projects**  
 > 🚀 Goal: **ML Application Development (Real-world Impact)**  
-> 📂 All my repos: **[Portfolio](https://github.com/Chirag05B/Portfolio)**  
+> 📂 All of my projects are available at: **[Portfolio](https://github.com/Chirag05B/Portfolio)**  
 
 <br>
 
